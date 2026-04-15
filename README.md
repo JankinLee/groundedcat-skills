@@ -11,7 +11,7 @@ A collection of production-grade agent skills for Claude Code and other AI agent
 
 | Skill | Description | Install |
 |-------|-------------|---------|
-| [**Novelist**](./skills/novelist/) | 中文长篇小说/网文创作全流程 Skill — 策划、大纲、人物、世界观、连载写作、EPUB 导出、字数检查、英文翻译 | `npx skills add groundedcat/groundedcat-skills --path skills/novelist` |
+| [**Novelist**](./skills/novelist/) | 中文长篇小说/网文创作全流程 Skill — 策划、大纲、人物、世界观、连载写作、EPUB 导出、字数检查、英文翻译 | `npx skills add JankinLee/groundedcat-skills --path skills/novelist` |
 
 ## Quick Start
 
